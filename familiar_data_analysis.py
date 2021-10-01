@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import scipy.stats as stat
 
-# Load datasets
 lifespans = pd.read_csv('familiar_lifespan.csv')
 iron = pd.read_csv('familiar_iron.csv')
 
